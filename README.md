@@ -19,6 +19,12 @@ Open-source software is extensively used across industries, but it can contain v
 - **Google BigQuery GitHub Data**: Provides a vast pool of open-source repositories for analysis.
 - **CVE Database**: Used for identifying and validating known vulnerabilities.
 - **The Cybernative.ai**: Code Vulnerability and Security Dataset is a dataset of synthetic Data Programming by Demonstration (DPO) pairs, focusing on the intricate relationship between secure and insecure code across a variety of programming languages.
+- [![Dataset Card](https://img.shields.io/badge/dataset-Code_Vulnerability_Security-green)](https://huggingface.co/datasets/CyberNative/Code_Vulnerability_Security_DPO)
+
+
+  ## Language model we are going to use:
+  - [![Model Card](https://img.shields.io/badge/model-CodeBERT-blue)](https://huggingface.co/microsoft/codebert-base)
+
 
 ## How It Works
 1. **Data Collection**: 
@@ -40,3 +46,8 @@ Open-source software is extensively used across industries, but it can contain v
 
 5. **Clustering Vulnerabilities**: 
    - Use K-means clustering to group vulnerabilities based on shared characteristics across different codebases.
+
+## Related works: 
+- **Code Vulnerability Detection**: A growing area of research focusing on identifying vulnerabilities in code. Notable work in this area includes the paper titled ["Ecosystem of Large Language Models for Code
+"](https://arxiv.org/pdf/2405.16746v1), which provides a thorough overview of existing techniques and datasets.
+
