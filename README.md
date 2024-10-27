@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Working+on+it+right+now!&center=true&width=500&height=50)
+
 # Automated Detection of Vulnerable Code Snippets in Open Source Repositories Using NLP
 
 ## Project Overview
