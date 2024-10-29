@@ -51,6 +51,8 @@ Open-source software is extensively used across industries, but it can contain v
 - ["Ecosystem of Large Language Models for Code."](https://arxiv.org/pdf/2405.16746v1), which provides a thorough overview of existing techniques and datasets.
 - ["Detecting Code Vulnerabilities by Learning from Large-Scale Open Source Repositories"](https://eprints.whiterose.ac.uk/189375/6/DEVELOPER.pdf), which explores innovative approaches for detecting vulnerabilities by leveraging insights from extensive open-source projects.
 - [VulCNN: An Image-Inspired Scalable Vulnerability Detection System](https://github.com/CGCL-codes/VulCNN), a scalable system that uses image processing techniques for effective vulnerability detection.(This is mainly for dataset)
+- [Function-level Vulnerability Detection](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)  It includes implementations and experiments aimed at improving function-level vulnerability detection using machine learning techniques. 
+
 
 
 
